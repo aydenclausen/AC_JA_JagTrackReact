@@ -1,8 +1,8 @@
 import { Container, Title, Text, Grid } from '@mantine/core'
 import Header from './components/Header'
-import Classcard from './components/classcard'
-import Footer from './components/footer'
-import Weekday from './components/weekday'
+import Classcard from './components/Classcard'
+import Footer from './components/Footer'
+import Weekday from './components/Weekday'
 import { classes } from './data/classes'
 import './App.css'
 

@@ -1,6 +1,6 @@
 import { Card, Text, Button, Group } from '@mantine/core'
 import { IconExternalLink } from '@tabler/icons-react'
-import './classcard.css'
+import './Classcard.css'
 
 // Destructure props in the function parameter
 function Classcard({ block, name, time, description, canvasUrl, color }) {
